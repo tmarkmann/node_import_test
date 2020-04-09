@@ -1,0 +1,9 @@
+"use strict";
+//import { Person } from "test";
+Object.defineProperty(exports, "__esModule", { value: true });
+//var person = new Person("Tom");
+//console.log(person.greet())
+const test_1 = require("test");
+var person = new test_1.Person("Tom");
+console.log(person.greet());
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi9saWIvaW5kZXgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUFBLGdDQUFnQzs7QUFFaEMsaUNBQWlDO0FBQ2pDLDZCQUE2QjtBQUU3QiwrQkFBMkI7QUFFM0IsSUFBSSxNQUFNLEdBQUcsSUFBSSxhQUFNLENBQUMsS0FBSyxDQUFDLENBQUM7QUFDL0IsT0FBTyxDQUFDLEdBQUcsQ0FBQyxNQUFNLENBQUMsS0FBSyxFQUFFLENBQUMsQ0FBQSIsInNvdXJjZXNDb250ZW50IjpbIi8vaW1wb3J0IHsgUGVyc29uIH0gZnJvbSBcInRlc3RcIjtcclxuXHJcbi8vdmFyIHBlcnNvbiA9IG5ldyBQZXJzb24oXCJUb21cIik7XHJcbi8vY29uc29sZS5sb2cocGVyc29uLmdyZWV0KCkpXHJcblxyXG5pbXBvcnQge1BlcnNvbn0gZnJvbSBcInRlc3RcIlxyXG5cclxudmFyIHBlcnNvbiA9IG5ldyBQZXJzb24oXCJUb21cIik7XHJcbmNvbnNvbGUubG9nKHBlcnNvbi5ncmVldCgpKSJdfQ==
